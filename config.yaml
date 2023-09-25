@@ -1,46 +1,38 @@
-baseURL: https://eternity.bora.sh # todo: change site url.
-title: Eternity # todo: change site name.
-defaultContentLanguage: 'en'
-theme: eternity
-googleAnalytics: '' # todo: set your analytics id.
+baseURL: https://starlitjoy.com # todo: change site url.
+title: Starlit Joy # todo: change site name.
+defaultContentLanguage: "en"
+theme: cosmic
+googleAnalytics: "" # todo: set your analytics id.
 
 params:
-  image: /images/banner.png
-  logo: logo.png # todo: add your custom logo to static/
-  subtitle: Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel. # todo: change default subtitle for your website.
-  copyright: All rights reserved. # todo: set your copyright type.
-  author: Lovely Author # todo: set your full name.
+  subtitle: Astrophotography Gallery # todo: change default subtitle for your website
+  author: Joy Paulsen # todo: set your full name.
   dontShowSource: false # please, do not do this :)
   portfolio:
     columns:
       desktop:
-        nature: 4
         archive: 6
-        people: 2
         default: 3
       mobile:
         default: 2
-        archive: 3
-        people: 1
   socials:
-    # todo: change these links.
-    - icon: 'far fa-envelope fa-lg'
-      url: 'mailto:eternity@bora.sh'
+    - icon: "far fa-envelope fa-lg"
+      url: "mailto:hello@joypauls.dev"
       landing: true
-    - icon: 'fab fa-github fa-lg'
-      url: 'https://github.com/boratanrikulu/eternity'
+    - icon: "fab fa-github fa-lg"
+      url: "https://github.com/joypauls"
       landing: true
-    - icon: 'fab fa-instagram fa-lg'
-      url: 'https://instagram.bora.sh/eternity'
-    - icon: 'fab fa-linkedin-in fa-lg'
-      url: 'https://linkedin.bora.sh/in/eternity'
-  homepage: "/work" # homepage link, mostly same with menu.main[0]
+    - icon: "fab fa-instagram fa-lg"
+      url: "https://www.instagram.com/starlit.joy/"
+      landing: true
+  homepage: "/" # homepage link, mostly same with menu.main[0]
+  callToActionLink: "/gallery/"
   specialPages:
-    - work
-    - archive
-  bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
-  disableWelcomePageBackground: false # disables the background image on the homepage
-  plausible: '' # todo: set your plausible id.
+    - gallery
+    # - archive
+  bypassWelcomePage: false # redirects "/" to "homepage" when it"s true.
+  disableWelcomePageBackground: true # disables the background image on the homepage
+  plausible: "" # todo: set your plausible id.
   disableRadius: false
   moveIt: false  # Moves Title and Meta info down, only visible when scroll.
   disableAlwaysResize: false
@@ -55,22 +47,16 @@ taxonomies:
   tag: tags
 
 permalinks:
-  work: ":filename/"
+  gallery: ":filename/"
 
 menu:
   main:
-    - name: work
-      url: /work/
+    - name: gallery
+      url: /gallery/
       weight: 1
-    - name: people
-      url: /tags/people/
+    - name: learn
+      url: /learn/
       weight: 2
-    - name: nature
-      url: /tags/nature/
-      weight: 3
-    - name: archive
-      url: /tags/archive/
-      weight: 4
     - name: about
       url: /about/
-      weight: 5
+      weight: 3

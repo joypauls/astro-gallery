@@ -1,5 +1,5 @@
 ---
 desc:
-- Eternity is a minimalist Hugo theme
-- designed for portfolio sites with a fresh feel.
+- Astrophotography and deep sky imaging, 
+- everything from landscapes to nebulae.
 ---
