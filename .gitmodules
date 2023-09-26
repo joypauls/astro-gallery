@@ -1,3 +1,3 @@
 [submodule "themes/cosmic"]
 	path = themes/cosmic
-	url = git@github.com:joypauls/hugo-cosmic-theme.git
+	url = https://github.com/joypauls/hugo-cosmic-theme.git
