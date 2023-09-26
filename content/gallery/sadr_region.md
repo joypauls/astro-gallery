@@ -1,15 +1,15 @@
 ---
 weight: 100
 images:
-- /images/gallery/m31_20230913.jpg
-title: The Andromeda Galaxy
+- /images/gallery/sadr_region.jpg
+title: The Sadr Region
 date: 2023-09-13
 tags:
 - gallery
 - deep-sky
 ---
 
-The Andromeda Galaxy, also known as Messier 31 (M31) from September 2023.
+The nebula around the star Sadr in the constellation Cygnus from September 2023.
 
 ## Image Details
 

@@ -1,12 +1,12 @@
 ---
 weight: 100
 images:
-- /images/gallery/waning_one_quarter_hdr.jpg
-title: Waning One Quarter
+- /images/gallery/waning_crescent_hdr.jpg
+title: Waning Crescent HDR
 date: 2023-09-23
 tags:
 - gallery
-- archive
+- lunar
 ---
 
 ## Markdown

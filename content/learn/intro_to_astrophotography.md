@@ -1,6 +1,7 @@
 ---
 weight: 1
-title: bunny 3
+title: Intro to Astrophotography
+url: intro-to-astrophotography
 tags:
 - blog
 ---

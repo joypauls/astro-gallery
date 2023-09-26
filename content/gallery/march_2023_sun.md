@@ -2,13 +2,10 @@
 weight: 96
 images:
 - /images/gallery/sun_march_2023.jpg
-title: Andromeda
+title: Springtime Sun in Broadband
 date: 2023-09-13
 tags:
 - gallery
-- archive
+- solar
 ---
 
-## Markdown
-
-You can use **Markdown** format to write **your story**.

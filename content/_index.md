@@ -1,5 +1,5 @@
 ---
 desc:
 - Astrophotography and deep sky imaging, 
-- everything from landscapes to nebulae.
+- everything from our moon to distant galaxies.
 ---

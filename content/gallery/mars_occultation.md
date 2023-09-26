@@ -6,9 +6,6 @@ title: Lunar Occultation of Mars
 date: 2023-09-13
 tags:
 - gallery
-- archive
+- lunar
 ---
 
-## Markdown
-
-You can use **Markdown** format to write **your story**.
